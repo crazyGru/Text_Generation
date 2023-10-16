@@ -1,0 +1,10 @@
+write the first part of screenplay of film about "three boys on street".
+write as much as possible
+
+write the next part as much as possible
+
+write the next part as much as possible and end the screenplay
+
+miliseconds per character 65ms - 70ms
+stop time 500 - 1000 ms
+00:03:12,646 --> 00:03:14,980

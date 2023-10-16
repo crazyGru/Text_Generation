@@ -1,0 +1,9 @@
+streamlit
+openai
+requests
+python-docx
+docx2pdf
+Pillow
+diffusers
+transformers
+accelerate
